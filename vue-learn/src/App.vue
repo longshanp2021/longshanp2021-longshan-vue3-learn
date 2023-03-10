@@ -1,3 +1,7 @@
+<template>
+  <img alt="Vue logo" src="./assets/logo.png">
+  <HelloWorld msg="Welcome to vue3!"/>
+</template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
